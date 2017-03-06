@@ -5,8 +5,11 @@
 
 * 打开智慧树播放视频的页面
 
-* 以chrome浏览器为例，在网页上右键 - 检查（或在右上方选项中，选择“更多工具” - “开发者工具”）
+* 以chrome浏览器为例，按下`F12`键打开开发者工具
+
+ 或者在网页上右键 - 检查
 <p align="center"><img width="200px" src="./content/check.png"></p>
+  或在右上方选项中，选择“更多工具” - “开发者工具”
 <p align="center"><img width="400px" src="./content/2.jpg"></p>
 
 * 进入console
