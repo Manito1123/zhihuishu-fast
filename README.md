@@ -9,7 +9,7 @@
   而后进入console，将文件内容粘贴入console，回车执行
 <p align="center"><img width="100%" src="./content/Second.gif"></p>
 
-* 在console输入`studyTotalTime = 3000;`，回车执行：   
+* 在console输入`studyTotalTime = 3000;`，回车执行
  点击每个视频，重复执行此步骤
 <p align="center"><img width="100%" src="./content/Third.gif"></p>
 
