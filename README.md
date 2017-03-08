@@ -2,13 +2,11 @@
 智慧树
    
 ## Usage
-* 复制zhuhuishu.js文件中的内容，
-
-* 打开智慧树播放视频的页面，在网页上右键 - 检查，打开开发者工具
-  (或在右上方选项中，选择“更多工具” - “开发者工具”；或按下`F12`键)
+* 复制zhuhuishu.js文件中的内容
 <p align="center"><img width="100%" src="./content/First.gif"></p>
 
-* 进入console，将文件内容粘贴入console，回车执行
+* 打开智慧树播放视频的页面，在网页上右键 - 检查，打开开发者工具(或在右上方选项中，选择“更多工具” - “开发者工具”；或按下`F12`键)
+  而后进入console，将文件内容粘贴入console，回车执行
 <p align="center"><img width="100%" src="./content/Second.gif"></p>
 
 * 在console输入如下语句，回车执行：   
