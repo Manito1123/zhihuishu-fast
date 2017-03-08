@@ -2,19 +2,16 @@
 智慧树
    
 ## Usage
+* 复制zhuhuishu.js文件中的内容，
 
-* 打开智慧树播放视频的页面
-
-* 以chrome浏览器为例，在网页上右键 - 检查，打开开发者工具
+* 打开智慧树播放视频的页面，在网页上右键 - 检查，打开开发者工具
   (或在右上方选项中，选择“更多工具” - “开发者工具”；或按下`F12`键)
 <p align="center"><img width="100%" src="./content/First.gif"></p>
 
-* 进入console
-
-* 复制zhuhuishu.js文件中的内容，粘贴入console，回车执行
+* 进入console，将文件内容粘贴入console，回车执行
 <p align="center"><img width="100%" src="./content/Second.gif"></p>
 
-* 在console输入如下语句，回车运行：   
+* 在console输入如下语句，回车执行：   
 ```js 
 studyTotalTime = 2000; //2000的意思是2000秒，如果有视频时长大于33分钟，只需2000改为更大的数即可
 ```
